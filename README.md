@@ -74,3 +74,4 @@ The intended use would be used to query active or dead organizations, and genera
   * Should be redundant with NCCS Core files but worth double-checking
 * [IRS SOI Extracts](https://github.com/lecy/Open-Data-for-Nonprofit-Research/blob/master/Open_Nonprofit_Datasets/IRS_Statistics_of_Income_Files.Rmd)
   * Should be redundant with NCCS Core files but worth double-checking
+* [NCCS Data Guide](http://nccs-data.urban.org/NCCS-data-guide.pdf)
